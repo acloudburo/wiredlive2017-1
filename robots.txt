@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://wiredlive2017-1.curation.space/sitemap.xml

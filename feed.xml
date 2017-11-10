@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wiredlive2017</title>
+  <subtitle></subtitle>
+  <id>https://wiredlive2017-1.curation.space</id>
+  <link href="https://wiredlive2017-1.curation.space"/>
+  <link href="https://wiredlive2017-1.curation.space/feed.xml" rel="self"/>
+  <author>
+    <name></name>
+  </author>
+</feed>
