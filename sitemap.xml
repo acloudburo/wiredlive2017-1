@@ -49,6 +49,18 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://wiredlive2017-1.curation.space/2017/11/06/the-world-in-simulation.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://wiredlive2017-1.curation.space/2017/11/06/copy-of-swipe-right-for-equality.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://wiredlive2017-1.curation.space/menu4.html</loc>
     <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
@@ -70,6 +82,42 @@
     <loc>https://wiredlive2017-1.curation.space/footer2.html</loc>
     <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://wiredlive2017-1.curation.space/tags/day1.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://wiredlive2017-1.curation.space/tags/virtualreality.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://wiredlive2017-1.curation.space/tags/socialmedia.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://wiredlive2017-1.curation.space/2017.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://wiredlive2017-1.curation.space/2017/11.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://wiredlive2017-1.curation.space/2017/11/06.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
