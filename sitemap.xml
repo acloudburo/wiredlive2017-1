@@ -199,6 +199,18 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://wiredlive2017-1.curation.space/2017/11/10/to-catch-a-paedophile-you-only-need-to-look-at-their-hands.html</loc>
+    <lastmod>2017-11-12</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://wiredlive2017-1.curation.space/2017/11/09/using-bubbles-to-fight-cancer.html</loc>
+    <lastmod>2017-11-12</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://wiredlive2017-1.curation.space/2017/11/07/deepmind-session.html</loc>
     <lastmod>2017-11-12</lastmod>
     <priority>0.7</priority>
@@ -350,6 +362,12 @@
   </url>
   <url>
     <loc>https://wiredlive2017-1.curation.space/tags/day1/page/2.html</loc>
+    <lastmod>2017-11-12</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://wiredlive2017-1.curation.space/tags/day2/page/2.html</loc>
     <lastmod>2017-11-12</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
